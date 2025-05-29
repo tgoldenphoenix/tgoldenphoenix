@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm a Product Software Engineer, a progress-driven & self-taught fast learner with a constant thirst for technical improvement.<br>💪 I Love building software to solve real-world problems for businesses and customers with a “Product-minded” mental model in mind.<br>👨‍🎨 Also love building UI at scale to improve User Experiences<br><br>😁 I work across the entire stack: Frontend, Backend, I specialize in JavaScript, Typescript, React, Node.js, PostgreSQL, Performance, Testing and more.<br><br>🌱 I’m currently learning: Python, UI UX Web Design, diving deep into backend engineering, dev-ops, and cloud, then ML...
+🧑‍💻 I'm a Product Software Engineer, a progress-driven & self-taught fast learner with a constant thirst for technical improvement.<br>💪 I Love building software to solve real-world problems for businesses and customers with a “Product-minded” mental model in mind.<br>👨‍🎨 Also love building UI at scale to improve User Experiences<br><br>😁 I work across the entire stack: Frontend, Backend, I specialize in JavaScript, Typescript, React, Node.js, PostgreSQL, Performance, Testing and more.<br>
 
 
 # 💻 Tech Stack:
